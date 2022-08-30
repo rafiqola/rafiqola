@@ -13,7 +13,7 @@
   </a>
 </p>
 
-[![Yusril' Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafiqola&custom_title=Yusril's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://rafiq.uisax.com/)
+[![Yusril' Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafiqola&custom_title=Rafiq's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://rafiq.uisax.com/)
 
 ### Roles :
 - Junior UI/UX Designer at Peddium Team
