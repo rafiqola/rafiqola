@@ -16,16 +16,15 @@
 [![Yusril' Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafiqola&custom_title=Yusril's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://rafiq.uisax.com/)
 
 ### Roles :
-- Mobile Developer at GenPI.co
-- Mobile Developer at Idejualan
-- Mobile Developer at Mumtaz
-- Mobile Developer Freelance
+- Junior UI/UX Designer at Peddium Team
+- Junior Web Designer at Ouzen Group
+- Junior UI Designer at Komhindo
 
 ### Playground :
-- Flutter (Android & iOS)
-- Laravel
-- Lumen
-- Python
+- Figma
+- Adobe XD
+- Tailwind CSS
+- Astro SSG
 
 ### Support Me :
 <a href="https://www.buymeacoffee.com/leeyurani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
