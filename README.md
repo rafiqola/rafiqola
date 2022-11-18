@@ -13,7 +13,7 @@
   </a>
 </p>
 
-[![@rafiqola 'L Holopin board](https://holopin.me/rafiqadha)](https://holopin.io/@rafiqadha)
+[![@rafiqadha's Holopin board](https://holopin.io/api/user/board?user=rafiqadha)](https://holopin.io/@rafiqadha)
 
 [![Rafiq' Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafiqola&custom_title=Rafiq's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://rafiq.uisax.com/)
 
