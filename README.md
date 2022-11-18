@@ -9,11 +9,11 @@
   <a href="https://rafiq.uisax.com/">
     <img width="30.5%" src="https://github-contribution-stats.vercel.app/api/?username=rafiqola" />
     &nbsp;
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=rafiqola&theme=radical&hide_border=true" />
+    <img width="49.5%" height="30%" src="https://github-readme-streak-stats.herokuapp.com?user=rafiqola&theme=radical&hide_border=true" />
   </a>
 </p>
 
-[![Yusril' Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafiqola&custom_title=Rafiq's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://rafiq.uisax.com/)
+[![Rafiq' Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafiqola&custom_title=Rafiq's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://rafiq.uisax.com/)
 
 ### Roles :
 - Junior UI/UX Designer at Peddium Team
